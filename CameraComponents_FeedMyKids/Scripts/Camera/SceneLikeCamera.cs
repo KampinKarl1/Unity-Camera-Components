@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Cameras
+namespace CustomCameraComponents
 {
     public class SceneLikeCamera : MonoBehaviour
     {
