@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace CustCameraComponents{
+namespace CustomCameraComponents{
 
 public class Raycaster : MonoBehaviour
 {
